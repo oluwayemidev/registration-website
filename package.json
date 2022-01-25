@@ -1,0 +1,14 @@
+{
+  "name": "registeration-website",
+  "version": "1.0.0",
+  "description": "made by @oluwayemi.dev",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunday Olanisimi (@oluwayemi.dev)",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
